@@ -8,12 +8,11 @@
     font-size: 32px;
 }
 
-#num3 {
+.size-24px {
     font-size: 24px
 }
 
 #num4 {
     background-color: #90ee90;
-    font-size: 24px;
     font-weight: bold;
 }
